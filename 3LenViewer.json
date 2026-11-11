@@ -1,0 +1,17 @@
+{
+    "version":  "1.04",
+    "file":  "3LenViewer_MP1.04_2024_0206.exe",
+    "size":  65819471,
+    "sha256":  "ee81779e16ffee9237139234d434a119d9a5b69240e4adb9b84271a10f427ae4",
+    "published_at":  "2026-11-11T23:16:07+08:00",
+    "mirrors":  [
+                    {
+                        "name":  "gitee",
+                        "url":  "https://gitee.com/samlau7978/vesee-go/releases/download/3LenViewer-v1.04/3LenViewer_MP1.04_2024_0206.exe"
+                    },
+                    {
+                        "name":  "github",
+                        "url":  "https://github.com/samlau7978-png/vesee-go/releases/download/3LenViewer-v1.04/3LenViewer_MP1.04_2024_0206.exe"
+                    }
+                ]
+}
