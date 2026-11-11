@@ -1,0 +1,45 @@
+{
+    "version":  "0.1.0.0",
+    "file":  "RaysNotepad_Setup_0.1.0.0_x64.exe",
+    "size":  196781227,
+    "sha256":  "8def0974aeea9637bc1b3cd16d5be20f1d3d63e30405b1516061c33013b6121c",
+    "published_at":  "2026-11-11T21:23:28+08:00",
+    "mirrors":  [
+                    {
+                        "name":  "github",
+                        "url":  "https://github.com/samlau7978-png/vesee-go/releases/download/raysnotepad-v0.1.0.0/RaysNotepad_Setup_0.1.0.0_x64.exe"
+                    }
+                ],
+    "parts":  [
+                  {
+                      "name":  "RaysNotepad_Setup_0.1.0.0_x64.exe.p00",
+                      "size":  65593743,
+                      "mirrors":  [
+                                      {
+                                          "name":  "gitee",
+                                          "url":  "https://gitee.com/samlau7978/vesee-go/releases/download/raysnotepad-v0.1.0.0/RaysNotepad_Setup_0.1.0.0_x64.exe.p00"
+                                      }
+                                  ]
+                  },
+                  {
+                      "name":  "RaysNotepad_Setup_0.1.0.0_x64.exe.p01",
+                      "size":  65593743,
+                      "mirrors":  [
+                                      {
+                                          "name":  "gitee",
+                                          "url":  "https://gitee.com/samlau7978/vesee-go/releases/download/raysnotepad-v0.1.0.0/RaysNotepad_Setup_0.1.0.0_x64.exe.p01"
+                                      }
+                                  ]
+                  },
+                  {
+                      "name":  "RaysNotepad_Setup_0.1.0.0_x64.exe.p02",
+                      "size":  65593741,
+                      "mirrors":  [
+                                      {
+                                          "name":  "gitee",
+                                          "url":  "https://gitee.com/samlau7978/vesee-go/releases/download/raysnotepad-v0.1.0.0/RaysNotepad_Setup_0.1.0.0_x64.exe.p02"
+                                      }
+                                  ]
+                  }
+              ]
+}
