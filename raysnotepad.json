@@ -1,43 +1,43 @@
 {
-    "version":  "0.1.0.0",
-    "file":  "RaysNotepad_Setup_0.1.0.0_x64.exe",
-    "size":  196781227,
-    "sha256":  "8def0974aeea9637bc1b3cd16d5be20f1d3d63e30405b1516061c33013b6121c",
-    "published_at":  "2026-11-11T22:02:45+08:00",
+    "version":  "0.1.1.0",
+    "file":  "RaysNotepad_Setup_0.1.1.0_x64.exe",
+    "size":  196785323,
+    "sha256":  "6a8f8ffe7dcc34a289e9cd68418f18b55057a92f744bebd78ea9c5e83370fd47",
+    "published_at":  "2026-11-13T09:49:41+08:00",
     "mirrors":  [
                     {
                         "name":  "github",
-                        "url":  "https://github.com/samlau7978-png/vesee-go/releases/download/raysnotepad-v0.1.0.0/RaysNotepad_Setup_0.1.0.0_x64.exe"
+                        "url":  "https://github.com/samlau7978-png/vesee-go/releases/download/raysnotepad-v0.1.1.0/RaysNotepad_Setup_0.1.1.0_x64.exe"
                     }
                 ],
     "parts":  [
                   {
-                      "name":  "RaysNotepad_Setup_0.1.0.0_x64.exe.p00",
-                      "size":  65593743,
+                      "name":  "RaysNotepad_Setup_0.1.1.0_x64.exe.p00",
+                      "size":  65595108,
                       "mirrors":  [
                                       {
                                           "name":  "gitee",
-                                          "url":  "https://gitee.com/samlau7978/vesee-go/releases/download/raysnotepad-v0.1.0.0/RaysNotepad_Setup_0.1.0.0_x64.exe.p00"
+                                          "url":  "https://gitee.com/samlau7978/vesee-go/releases/download/raysnotepad-v0.1.1.0/RaysNotepad_Setup_0.1.1.0_x64.exe.p00"
                                       }
                                   ]
                   },
                   {
-                      "name":  "RaysNotepad_Setup_0.1.0.0_x64.exe.p01",
-                      "size":  65593743,
+                      "name":  "RaysNotepad_Setup_0.1.1.0_x64.exe.p01",
+                      "size":  65595108,
                       "mirrors":  [
                                       {
                                           "name":  "gitee",
-                                          "url":  "https://gitee.com/samlau7978/vesee-go/releases/download/raysnotepad-v0.1.0.0/RaysNotepad_Setup_0.1.0.0_x64.exe.p01"
+                                          "url":  "https://gitee.com/samlau7978/vesee-go/releases/download/raysnotepad-v0.1.1.0/RaysNotepad_Setup_0.1.1.0_x64.exe.p01"
                                       }
                                   ]
                   },
                   {
-                      "name":  "RaysNotepad_Setup_0.1.0.0_x64.exe.p02",
-                      "size":  65593741,
+                      "name":  "RaysNotepad_Setup_0.1.1.0_x64.exe.p02",
+                      "size":  65595107,
                       "mirrors":  [
                                       {
                                           "name":  "gitee",
-                                          "url":  "https://gitee.com/samlau7978/vesee-go/releases/download/raysnotepad-v0.1.0.0/RaysNotepad_Setup_0.1.0.0_x64.exe.p02"
+                                          "url":  "https://gitee.com/samlau7978/vesee-go/releases/download/raysnotepad-v0.1.1.0/RaysNotepad_Setup_0.1.1.0_x64.exe.p02"
                                       }
                                   ]
                   }
